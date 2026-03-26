@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gargi Biradar
+##                    Hi there 👋 I'm Gargi Biradar
 
 <!--
 **gargee-bee/gargee-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
