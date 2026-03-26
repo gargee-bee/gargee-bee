@@ -1,4 +1,4 @@
-##Hi there 👋 I'm Gargi Biradar
+##Hi there 👋 I'm Gargi Biradar </br>
 🔭 I’m currently working as AWS Cloud Architech and Linux Administartor
 💬 Ask me about AWS, Linux, SUSE Multi-Linux Manager
 🌱 I’m currently learning DevOps
