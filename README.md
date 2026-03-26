@@ -17,4 +17,5 @@
 
 <p><img align="center" src="https://avatars.githubusercontent.com/u/199900657?v=4" width="40" height="40" /></p> <a href="https://github.com/gargee-bee" rel="noreferrer" alt="gargee-bee" />
 
+<p><img align="center" src="https://github.com/gargee-bee/gargee-bee" alt="gargee-bee" /></p>
 
