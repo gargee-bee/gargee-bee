@@ -1,4 +1,4 @@
-<H1><CENTER>##Hi there 👋 I'm Gargi Biradar </CENTER></H1></br>
+<H2>         ##Hi there 👋 I'm Gargi Biradar </H2></br>
 🔭 I’m currently working as AWS Cloud Architech and Linux Administartor
 💬 Ask me about AWS, Linux, SUSE Multi-Linux Manager
 🌱 I’m currently learning DevOps
