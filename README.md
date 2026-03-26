@@ -1,6 +1,6 @@
 <H2>         ##Hi there 👋 I'm Gargi Biradar </H2></br>
-🔭 I’m currently working as AWS Cloud Architech and Linux Administartor
-💬 Ask me about AWS, Linux, SUSE Multi-Linux Manager
+🔭 I’m currently working as AWS Cloud Architech and Linux Administartor</br>
+💬 Ask me about AWS, Linux, SUSE Multi-Linux Manager</br>
 🌱 I’m currently learning DevOps
 <!--
 **gargee-bee/gargee-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
